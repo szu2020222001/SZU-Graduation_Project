@@ -53,6 +53,8 @@ SZU-Graduation_Project/
 
 在`Model`文件夹中，提供了基于脑网络启发与融合注意力机制的图卷积网络模型（Brain Network-inspired and Fusion Attention-based Graph Convolutional Network，简称BFA-GCN）的完整代码。你可以通过调用此模型，并根据您的需求自定义训练与验证策略，从而灵活地实现模型的训练与评估。
 
+关于假设检验、网络指标计算等细节部分可以参考论文正文。
+
 ## 许可证
 
 这个项目是在MIT许可证下发布的。详情请参阅LICENSE文件。
